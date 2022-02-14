@@ -9,28 +9,15 @@
 
 **문제 풀이**
 
-[백준 1969번: DNA](https://github.com/hye-rong/algorithm/blob/master/Greedy/A16.py)
+[백준 1969번: DNA][백준 1700번: 멀티탭 스케줄링][백준 1744번: 수 묶기][백준 12845번: 모두의 마블][백준 1541번: 잃어버린 괄호][백준 2875번: 대회 or 인턴][백준 1439번: 문자열 뒤집기][프로그래머스: 무지의 먹방 라이브][프로그래머스: 체육복][프로그래머스: 큰 수 만들기][프로그래머스: 구명보트][프로그래머스: 섬 연결하기][프로그래머스: 단속카메라]
 
-[백준 1700번: 멀티탭 스케줄링](https://github.com/hye-rong/algorithm/blob/master/Greedy/A15.py)
+## 02 Implementation(구현)
+**(코딩테스트에서)구현이란?**
+- 머리속에 있는 알고리즘을 소스코드로 바꾸는 과정
+- 풀이를 떠올리는 것은 쉽지만 소스코드로 옮기기 어려운 문제를 의미
+- 문법을 잘 이해하고 경험이 있어야지 문제를 잘 푸는 유형
+- 완전 탐색(모든 경우의 수 고려), 시뮬레이션(제시된 알고리즘 차례로 수행)등 유형 존재
+- 파이썬에서는 리스트 메모리 제한을 고려해야 함
 
-[백준 1744번: 수 묶기](https://github.com/hye-rong/algorithm/blob/master/Greedy/A14.py)
-
-[백준 12845번: 모두의 마블](https://github.com/hye-rong/algorithm/blob/master/Greedy/A13.py)
-
-[백준 1541번: 잃어버린 괄호](https://github.com/hye-rong/algorithm/blob/master/Greedy/A11.py)
-
-[백준 2875번: 대회 or 인턴](https://github.com/hye-rong/algorithm/blob/master/Greedy/A12.py)
-
-[백준 1439번: 문자열 뒤집기](https://github.com/hye-rong/algorithm/blob/master/Greedy/A01.py)
-
-[프로그래머스: 무지의 먹방 라이브](https://github.com/hye-rong/algorithm/blob/master/Greedy/A02.py)
-
-[프로그래머스: 체육복](https://github.com/hye-rong/algorithm/blob/master/Greedy/A03.py)
-
-[프로그래머스: 큰 수 만들기](https://github.com/hye-rong/algorithm/blob/master/Greedy/A04.py)
-
-[프로그래머스: 구명보트]
-
-[프로그래머스: 섬 연결하기](https://github.com/hye-rong/algorithm/blob/master/Greedy/A06.py)
-
-[프로그래머스: 단속카메라](https://github.com/hye-rong/algorithm/blob/master/Greedy/A07.py)
+**문제 풀이**
+[백준 21608번: 상어 초등학교][백준 18406번: 럭키 스트레이트][프로그래머스: 문자열 압축][프로그래머스: 자물쇠와 열쇠][백준 3190번: 뱀][프로그래머스: 기둥과 보 설치][백준 15686번: 치킨 배달]
