@@ -1,3 +1,4 @@
+# 백준 15686번: 치킨 배달
 from itertools import combinations
 
 n, m = map(int, input().split())

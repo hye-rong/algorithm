@@ -1,3 +1,4 @@
+# 프로그래머스 문자열 압축
 def solution(s):
     answer = len(s)
     for i in range(1, len(s) // 2 + 1):

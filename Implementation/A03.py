@@ -1,3 +1,4 @@
+# 프로그래머스: 자물쇠와 열쇠
 def solution(key, lock):
     answer = False
 

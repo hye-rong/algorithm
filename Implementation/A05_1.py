@@ -1,4 +1,4 @@
-
+# 프로그래머스: 기둥과 보 설치
 # 문제점: 현재 상태를 list에 append로 저장을 해서 search하는데 시간이 걸림
 
 def solution(n, build_frame):

@@ -1,3 +1,4 @@
+# 백준 3190번: 뱀
 N = int(input())
 board = [[0 for i in range(N)] for j in range(N)]
 board[0][0] = 1

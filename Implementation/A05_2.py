@@ -1,3 +1,4 @@
+# 프로그래머스: 기둥과 보 설치
 # 해결책: 2차원 배열에 해당 위치에 맞게 저장을 해서 search시간이 줄어즘
 # 개선: remove할 때, is_okay함수 이용
 def solution(n, build_frame):
